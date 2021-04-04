@@ -1,0 +1,17 @@
+ul{
+    padding: 0;
+    list-style-type: none;
+}
+
+li{
+    color: #868c98;
+}
+h4{
+    color: tomato;
+    margin-bottom: 30px !important;
+    margin-top: 30px !important;
+}
+footer{
+    background-color: honeydew;
+    padding: 50px 10px;
+}
